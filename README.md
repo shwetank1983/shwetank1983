@@ -1,6 +1,6 @@
 # 🎓 MyCollegeBook | High-Fidelity Digital SAT® Preparation
 
-Founder & Lead Developer of **[MyCollegeBook](https://mycollegebook.satprepin.com)** — a digital SAT simulator designed to eliminate test-day surprises.
+Founder & Lead Developer of **[MyCollegeBook](https://mycollegebook.org)** — a digital SAT simulator designed to eliminate test-day surprises.
 
 ### 🚀 What is MyCollegeBook?
 Most students show up to the SAT having never practiced on a real digital interface. We built a platform that mirrors the **CollegeBoard Bluebook™ environment 1:1**, focusing on accessibility and deep behavioral analytics.
@@ -24,7 +24,7 @@ I'm currently building the future of EdTech using:
 ### 📈 Mission
 To bridge the gap between "studying content" and "executing on test day." If you're an educator, tutor, or student, I'd love to connect.
 
-[**Start a Free SAT Practice Test →**](https://mycollegebook.satprepin.com)
+[**Start a Free SAT Practice Test →**](https://mycollegebook.org)
 
 I tutor SAT students online at https://satprepin.com
 
