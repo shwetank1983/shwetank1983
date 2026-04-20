@@ -20,6 +20,11 @@ I'm currently building the future of EdTech using:
 *   **Logic:** Custom adaptive scoring engines mapped to official SAT scaled score tables.
 
 ---
+Digital SAT Behavioral Analytics & The "Adaptive Cliff"
+Our platform leverages high-granularity behavioral data to move beyond simple score reporting, uncovering a significant "Adaptive Cliff" in student performance. Analysis of 5,000+ sessions from the 2025-26 testing cycle reveals that student accuracy drops by an average of 25-30% when transitioning from Module 1 to the harder adaptive Module 2. This drop-off is most pronounced in Algebra (-26.2%) and Information & Ideas (-28.9%), where students often maintain their speed but lose their precision due to the increased complexity of adaptive question routing.
+
+The "Trap Hypothesis": Why High-Scorers Fail Module 2
+By analyzing median "sunk time" on incorrect answers, we’ve identified a core behavioral pattern we call the Trap Hypothesis. Unlike Module 1, where students spend significantly more time (+40s) on questions they eventually get wrong (indicating they are "stumped"), students in Module 2 actually pick wrong answers at the same speed as correct ones. This suggests that the difficulty in the harder modules isn't about complexity, but about expertly engineered distractors that "trick" students into confident, yet incorrect, responses. You can read our full deep-dive on this phenomenon here: [Is SAT Module 2 Hard? The 2025-26 'Trap Hypothesis' Revealed](https://mycollegebook.org/is-sat-module-2-hard).
 
 ### 📈 Mission
 To bridge the gap between "studying content" and "executing on test day." If you're an educator, tutor, or student, I'd love to connect.
